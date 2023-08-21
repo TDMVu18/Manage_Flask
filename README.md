@@ -41,4 +41,8 @@ Python virtual environments give you the ability to isolate your Python developm
    .\Scripts\activate
    ```
    4. Install denpendencie
-      
+Once we have the environment set up, we need to install the packages that the app requires in order to work.
+Here I used *pip freeze* to pack all the packages into ***requirement.txt*** so all that was needed was to run the following code
+   ```
+   pip install -r requirement.txt
+   ```
