@@ -1,4 +1,4 @@
-# Manage Contacts (Flask) - Zũ ૮ ˶ᵔ ᵕ ᵔ˶ ა
+# Manage Contacts (Flask) - Vũ ૮ ˶ᵔ ᵕ ᵔ˶ ა
 ### Chức năng: ###
    Quản lý thông tin liên lạc
    
@@ -28,7 +28,7 @@
    ```
    **3. Thiết lập Virtual Enviroment (VE):**
       
-Môi trường ảo là một công cụ để duy trì không gian riêng biệt cho một Project với các phụ thuộc và các thư viện của nó ở một nơi. Môi trường này thì riêng biệt cho một Project cụ thể và không ảnh hưởng đến các phụ thuộc của các Project khác.
+Môi trường ảo là một công cụ để duy trì không gian riêng biệt cho một Project với các phụ thuộc và các thư viện của nó ở một nơi. Môi trường này thì riêng biệt cho một Project cụ thể và không ảnh hưởng đến các phụ thuộc của các Project khác •̀⩊•́ .
 
 Tạo môi trường ảo của Python cho Project:
    ```
@@ -64,7 +64,7 @@ Tiếp theo, để app có thể làm việc, thêm, xóa, sửa, lấy dữ li�
    ```
    from app import app, db
    ```
-Tại file app.py chúng ta đã khai báo 2 biến app và db, với app = Flask(__ name __) nhằm tạo một web server để chuyển các yêu cầu từ client tới ứng dụng web, và db = SQLAlchemy(app) như một ORM để mapping dữ liệu từ CSDL đến các class của python, giờ ta có thể sử dụng để tạo CSDL trên localhost của bạn, lưu ý hãy mở Xampp, và truy cập phpmyadmin trước.
+Tại file app.py chúng ta đã khai báo 2 biến app và db, với app = Flask(__ name __) nhằm tạo một web server để chuyển các yêu cầu từ client tới ứng dụng web, và db = SQLAlchemy(app) như một ORM để mapping dữ liệu từ CSDL đến các class của python, giờ ta có thể sử dụng để tạo CSDL trên localhost của bạn, lưu ý hãy mở Xampp, và truy cập phpmyadmin trước (˚0˚)!!
    ```
    app.app_context().push()
    db.create_all()
@@ -77,7 +77,7 @@ Sau khi thực hiện tất cả các bước trên, điều cuối cùng bạn 
    ```
 Sau đó hãy thực hiện thêm dữ liệu, xem, cập nhật và xóa dữ liệu ngay trên trang URL mà app cung cấp, thường sẽ là http://localhost:5000/
 
-Dưới đây là đoạn video các chức năng chính của App, See ya !! ˶ˆ꒳ˆ˵
+Dưới đây là đoạn video các chức năng chính của App, see ya ˶ˆ꒳ˆ˵ !! 
 
 
 
