@@ -2,7 +2,7 @@
 ### Chức năng: ###
    Quản lý thông tin liên lạc
    
-   Thêm, đọc, sửa, xóa dữ liệu người dùng (CRUD)
+   Thêm, xem, sửa, xóa dữ liệu người dùng (CRUD)
 
 ### Languages: ###
 
