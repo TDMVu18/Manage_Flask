@@ -78,3 +78,7 @@ Sau khi thực hiện tất cả các bước trên, điều cuối cùng bạn 
 Sau đó hãy thực hiện thêm dữ liệu, xem, cập nhật và xóa dữ liệu ngay trên trang URL mà app cung cấp, thường sẽ là http://localhost:5000/
 
 See ya !! ~~
+
+
+https://github.com/TDMVu18/Manage_Flask/assets/74062885/93e358a2-28f6-4a4f-aa10-0fa317c45b11
+
