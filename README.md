@@ -1,4 +1,4 @@
-# Manage Contact (Flask)
+# Manage Contacts (Flask)
 ### 1. Function: ###
    Created to manage contact information
    
@@ -6,8 +6,17 @@
 
 ### 2. Languages: ###
 
-   Front-end: ***HTML***
+   Front-end: *HTML*
 
-   Back-end: ***Python***
+   Back-end: *Python*
 
-   Database: ***SQL***
+   Database: *MySQL*
+
+   Library and framework used: *Bootstrap, JQuery, Flask*
+
+### 3. Installation: ###
+   First, clone this repository to your computer:
+   ```
+   https://github.com/TDMVu18/Manage_Flask/tree/main
+   ```
+   
