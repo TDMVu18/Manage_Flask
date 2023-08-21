@@ -27,6 +27,7 @@
    cd Manage_Flask
    ```
    3. Set up your Virtual Environment:
+      
 Python virtual environments give you the ability to isolate your Python development projects from your system installed Python and other Python environments. This gives you full control of your project and makes it easily reproducible
    ```
    virtualenv venv
