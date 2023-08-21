@@ -19,4 +19,12 @@
    ```
    https://github.com/TDMVu18/Manage_Flask/tree/main
    ```
+   And open folder with code editor.
+   
+   Second, open Terminal, move to this folder
+   
+   ```
+   cd Manage_Flask
+   ```
+   Then, set up your Virtual Environment in Python (Python virtual environments give you the ability to isolate your Python development projects from your system installed Python and other Python environments. This gives you full control of your project and makes it easily reproducible)
    
