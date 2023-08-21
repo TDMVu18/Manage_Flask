@@ -77,7 +77,7 @@ Sau khi thực hiện tất cả các bước trên, điều cuối cùng bạn 
    ```
 Sau đó hãy thực hiện thêm dữ liệu, xem, cập nhật và xóa dữ liệu ngay trên trang URL mà app cung cấp, thường sẽ là http://localhost:5000/
 
-Dưới đây là đoạn video các chức năng chính của App, See ya !! ~~
+Dưới đây là đoạn video các chức năng chính của App, See ya !! ˶ˆ꒳ˆ˵
 
 
 
