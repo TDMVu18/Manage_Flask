@@ -1,8 +1,8 @@
 # Manage Contacts (Flask)
-### Function: ###
-   Created to manage contact information
+### Chức năng: ###
+   Quản lý thông tin liên lạc
    
-   Able to implement a persistent storage application: create, read, update and delete. (CRUD)
+   Thêm, đọc, sửa, xóa dữ liệu người dùng (CRUD)
 
 ### Languages: ###
 
@@ -12,38 +12,40 @@
 
    Database: *MySQL*
 
-   Library and framework used: *Bootstrap, JQuery, Flask*
+   *Bootstrap, JQuery, Flask*
 
-### Installation: ###
-   **1. Clone this repository to your computer:**
+### Thiết lập app: ###
+   **1. Clone repository về máy:**
    ```
    https://github.com/TDMVu18/Manage_Flask/tree/main
    ```
-   And open folder with code editor.
+   Sau đó, bạn mở thư mục vừa clone với code editor.
    
-   **2. Open Terminal, move to Project's folder:**
+   **2. Chạy Terminal, điều hướng đến thư mục của Project:**
    
    ```
    cd Manage_Flask
    ```
-   **3. Set up your Virtual Environment:**
+   **3. Thiết lập Virtual Enviroment (VE):**
       
-Python virtual environments give you the ability to isolate your Python development projects from your system installed Python and other Python environments. This gives you full control of your project and makes it easily reproducible
+Môi trường ảo là một công cụ để duy trì không gian riêng biệt cho một Project với các phụ thuộc và các thư viện của nó ở một nơi. Môi trường này thì riêng biệt cho một Project cụ thể và không ảnh hưởng đến các phụ thuộc của các Project khác.
+
+Tạo môi trường ảo của Python cho Project:
    ```
    virtualenv venv
    ```
-   If you haven't installed virtualenv, try:
+   Nếu chưa cài đặt gói virtualenv, bạn hãy thử dòng lệnh sau:
    ```
    pip install virtualenv
    ```
-   After creating virtual environment, the next thing to do is activate it:
+   Sau khi thiết lập VE, hãy kích hoạt nó:
    ```
    .\Scripts\activate
    ```
-   **4. Install denpendencie**
+   **4. Cài đặt các gói**
       
-Once we have the environment set up, we need to install the packages that the app requires in order to work.
-Here I used *pip freeze* to pack all the packages into ***requirement.txt*** so all that was needed was to run the following code
+Sau khi thiết lập VE, điều tiếp theo bạn cần thực hiện là cài đặt các gói Python mà app của chúng ta cần để hoạt động.
+Mình đã đóng gói tất cả bằng lệnh pip freeze chạy trên VE, các gói cần thiết giờ đã nằm trong file ***requirement.txt*** nên việc bạn cần làm chỉ cần chạy dòng code sau:
    ```
    pip install -r requirement.txt
    ```
