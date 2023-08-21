@@ -8,9 +8,7 @@
 
    Front-end: *HTML*
 
-   Back-end: *Python*
-
-   Database: *MySQL*
+   Back-end: *Python, MySQL*
 
    Framework và thư viện: *Bootstrap, JQuery, Flask*
 
