@@ -64,7 +64,7 @@ Tiếp theo, để app có thể làm việc, thêm, xóa, sửa, lấy dữ li�
    ```
    from app import app, db
    ```
-Tại file app.py chúng ta đã khai báo 2 biến app và db, với app = Flask(__name__) nhằm tạo một web server để chuyển các yêu cầu từ client tới ứng dụng web, và db = SQLAlchemy(app) như một ORM để mapping dữ liệu từ CSDL đến các class của python, giờ ta có thể sử dụng để tạo CSDL trên localhost của bạn, lưu ý hãy mở Xampp, và truy cập phpmyadmin trước.
+Tại file app.py chúng ta đã khai báo 2 biến app và db, với app = Flask(__ name __) nhằm tạo một web server để chuyển các yêu cầu từ client tới ứng dụng web, và db = SQLAlchemy(app) như một ORM để mapping dữ liệu từ CSDL đến các class của python, giờ ta có thể sử dụng để tạo CSDL trên localhost của bạn, lưu ý hãy mở Xampp, và truy cập phpmyadmin trước.
    ```
    app.app_context().push()
    db.create_all()
