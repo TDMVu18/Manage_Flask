@@ -1,4 +1,4 @@
-# Manage Contacts (Flask) - Vũ Ker TDMV18
+# Manage Contacts (Flask) - Vũ Ker TDMV18 ૮ ˶ᵔ ᵕ ᵔ˶ ა
 ### Chức năng: ###
    Quản lý thông tin liên lạc
    
@@ -12,7 +12,7 @@
 
    Database: *MySQL*
 
-   *Bootstrap, JQuery, Flask*
+   Framework và thư viện: *Bootstrap, JQuery, Flask*
 
 ### Thiết lập app: ###
    **1. Clone repository về máy:**
