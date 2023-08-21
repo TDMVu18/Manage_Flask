@@ -40,7 +40,7 @@ Tạo môi trường ảo của Python cho Project:
    ```
    Sau khi thiết lập VE, hãy kích hoạt nó:
    ```
-   .\Scripts\activate
+   .venv\Scripts\activate
    ```
    **4. Cài đặt các gói**
       
