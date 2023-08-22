@@ -1,4 +1,4 @@
-# Manage Contacts (Flask) - Vũ ૮ ˶ᵔ ᵕ ᵔ˶ ა
+# Manage Contacts (Flask) - ૮ ˶ᵔ ᵕ ᵔ˶ ა
 ### Chức năng: ###
    Quản lý thông tin liên lạc
    
