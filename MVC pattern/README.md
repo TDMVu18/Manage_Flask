@@ -11,7 +11,7 @@ các hàm xử lý của services.py sẽ được ánh xạ vào các URL tươ
 
 để hiện thực hóa, file controller.py thực hiện việc định tuyến cho phép định nghĩa hành vi của ứng dụng khi user gởi yêu cầu đến các địa chỉ (URL) nhất định (route).
 
-Vì có nhiều file nên để dễ dàng trong việc vận hành, mình đã đăng ký model Data như 1 Blueprint của Flask với đoạn mã sau trong controller.py và __ init __.py:
+Vì có nhiều file nên để dễ dàng trong việc vận hành, mình đã đăng ký class Data như 1 Blueprint của Flask với đoạn mã sau trong controller.py và __ init __.py:
    ```
    datas = Blueprint("Data", __name__)
    app.register_blueprint(datas)
