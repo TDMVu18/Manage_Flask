@@ -22,7 +22,7 @@
    **2. Chạy Terminal, điều hướng đến thư mục của Project:**
    
    ```
-   cd Manage_Flask
+   cd Manage_Flask/classic_app
    ```
    **3. Thiết lập Virtual Enviroment (VE):**
       
