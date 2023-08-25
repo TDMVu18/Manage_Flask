@@ -53,7 +53,7 @@ Sau khi thực hiện các bước trên, bạn hãy mở file app.py ra, và qu
    ```
    app.config["SQLALCHEMY_DATABASE_URI"] = 'mysql://root:''@localhost/crud'
    ```
-Ở đây SQLALCHEMY_DATABASE_URI dùng để xác định đường dẫn đến CSDL của bạn, như trên URI đã cung cấp thì server của mình là *localhost*, username đang lấy theo tài khoản mặc định là *root*, với mật khẩu để trống là *''* và *crud* là tên của CSDL mình đã đặt. CSDL mình sử dụng là mysql nên URI sẽ được xác định theo đúng định dạng này, bạn có thể sửa đổi lại cho đúng với tài khoản và server của mình.
+Ở đây SQLALCHEMY_DATABASE_URI dùng để xác định đường dẫn đến CSDL của bạn, như trên URI đã cung cấp thì server của mình là *localhost*, username đang lấy theo tài khoản mặc định là *root*, với mật khẩu để trống là *' '* và *crud* là tên của CSDL mình đã đặt. CSDL mình sử dụng là mysql nên URI sẽ được xác định theo đúng định dạng này, bạn có thể sửa đổi lại cho đúng với tài khoản và server của mình.
 
 Tiếp theo, để app có thể làm việc, thêm, xóa, sửa, lấy dữ liệu thì hiển nhiên ta cần phải tạo một CSDL trên máy của bạn. Mở Terminal lên và chúng ta sẽ thực hiện theo các bước sau đây:
    ```
